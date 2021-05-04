@@ -27,7 +27,7 @@
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
                     Text="针不戳,有了个onepan.slqwq.cn看OneDrive网盘了" />
-        <TextBlock FontSize="0.3rem" TextWrapping="True" Text="2021/5/4 13:31:06" HorizontalAlignment="Right" Margin="0,0,0,2" />
+        <TextBlock FontSize="3px" TextWrapping="True" Text="2021/5/4 13:31:06" HorizontalAlignment="Right" Margin="0,0,0,2" />
     </StackPanel>
 </local:MyCard>
 
