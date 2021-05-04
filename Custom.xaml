@@ -23,7 +23,7 @@
                     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="Hajeekndの说说" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+<local:MyCard Title="Hajeeknの说说" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
                     Text="针不戳,有了个onepan.slqwq.cn看OneDrive网盘了" />
