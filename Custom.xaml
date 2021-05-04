@@ -1,4 +1,4 @@
-﻿<local:MyCard Title="HajeekndのPCL" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+<local:MyCard Title="HajeekndのPCL" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Text="这是Hajeekn高度折腾的效果" />
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
@@ -21,6 +21,14 @@
         <local:MyButton Margin="0,8,10,10" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Red"
                 Text="Hypixel" EventType="启动游戏" EventData="1.8.9|mc.hypixel.net" ToolTip="使用1.8.9进入全球最大的小游戏服务器 - Hypixel吧" />
                     </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="Hajeekndの说说" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                    Text="针不戳,有了个onepan.slqwq.cn看OneDrive网盘了" />
+        <TextBlock FontSize="0.3rem" TextWrapping="True" Text="2021/5/4 13:31:06" HorizontalAlignment="Right" Margin="0,0,0,2" />
+    </StackPanel>
 </local:MyCard>
 
 <!--
