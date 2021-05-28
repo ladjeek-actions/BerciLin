@@ -1,8 +1,6 @@
 <local:MyCard Title="HajeekndのPCL" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
     <StackPanel Margin="25,40,23,15">
-        <local:MyHint Text="这是Hajeekn高度折腾的效果" />
-        <local:MyHint Margin="0,8,0,2" IsWarn="False"
-                    Text="下一个卡片是快捷跳转的说" />
+        <local:MyHint Text="定 制 の P C L" />
     </StackPanel>
 </local:MyCard>
 
@@ -23,7 +21,7 @@
                     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="Hajeeknの说说" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+<local:MyCard Title="一言" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
                     Text="针不戳,有了个onepan.slqwq.cn看OneDrive网盘了" />
