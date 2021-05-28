@@ -1,4 +1,4 @@
-<local:MyCard Title="HajeekndのPCL" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+<local:MyCard Title="HajeeknのPCL" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Text="定 制 の P C L" />
     </StackPanel>
